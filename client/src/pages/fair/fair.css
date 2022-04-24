@@ -1,0 +1,30 @@
+.fair {
+  display: flex;
+}
+
+.fair-wrapper {
+  flex-direction: column;
+  margin: 1em 0 0 2em;
+}
+
+.fair-wrapper h4 {
+  color: goldenrod;
+  font-weight: bold;
+}
+
+.fair-list {
+  padding: 2em 0 0 1.2em;
+}
+
+.fair-list h3 {
+  color: #530000;
+  padding-bottom: 1em;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.fair-item {
+  padding-top: 0.3em;
+  font-size: 0.9rem;
+  font-weight: bold;
+}

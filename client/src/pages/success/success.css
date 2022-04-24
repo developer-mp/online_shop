@@ -1,0 +1,22 @@
+.success {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.success h3 {
+  margin-top: 3em;
+  font-weight: bold;
+}
+
+.success-img {
+  width: 200px;
+  margin-top: 3em;
+}
+
+.success h6 {
+  margin-top: 2em;
+  font-weight: bold;
+}
