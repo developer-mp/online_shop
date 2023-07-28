@@ -1,12 +1,12 @@
-# Online Shop
+### Online Shop
 
 Online shop is an e-commerce website that sells Christmas products.
 
-## Features
+### Features
 
 Users can add products to the shopping cart, view, edit, delete and pay for them. Token authentication is implemented.
 
-## Installation
+### Installation
 
 This web application is created using React, JavaScript, and CSS for frontend; Express/Node.js for the backend server, and MongoDB for the database. To run the application, execute the following command:
 
